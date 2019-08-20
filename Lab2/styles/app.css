@@ -1,0 +1,8 @@
+.first-row {
+    margin-top: 20px;
+}
+
+.card {
+    display: inline-block;
+    vertical-align: top;
+}
